@@ -20,7 +20,7 @@
 ## 💻 **A little about me**
 
 - 🖥 I’m currently working on Full Stack development.
-- 📚 I’m currently learning Full Stack development.
+- 📚 I’m currently learning Springboot.
 - 💬 Ask me about Python, Java, JS, C/C++ and Dart.
 
 
