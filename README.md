@@ -20,7 +20,7 @@
 ## 💻 **A little about me**
 
 - 🖥 I'm  a full stack developer currently working at Zoho
-- 📚 I’m currently learning Vue.js and Hibernate.
+- 📚 I’m currently learning Type Script with React
 - 💬 I like to work on my skills, read books and play video games in my free time.
 
 
@@ -41,3 +41,6 @@
 ![cpp](https://img.icons8.com/color/96/000000/c-plus-plus-logo.png)
 ![git](https://img.icons8.com/color/96/000000/git.png)
 ![css](https://img.icons8.com/color/96/000000/css3.png)
+<br>
+![react](https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000)
+![typescript](https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000)
