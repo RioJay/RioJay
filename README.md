@@ -20,7 +20,7 @@
 ## 💻 **A little about me**
 
 - 🖥 I'm  a full stack developer currently working at Zoho
-- 📚 I’m currently learning TypeScript with React
+- 📚 I’m currently learning TypeScript with React, and MCP. And using LLMs for various use cases
 - 💬 I like to work on my skills, read books and play video games in my free time.
 
 
